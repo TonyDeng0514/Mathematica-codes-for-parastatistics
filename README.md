@@ -1,2 +1,2 @@
 # Mathematica-codes-for-parastatistics
-Mathematica codes for computations related to the R-matrix parastatistics, defined in arXiv:2308.05203. The pdf file IntroductionParastatisticsCodes.pdf gives a detailed explanation of all the codes. All files (including .nb .wl .mx) should be placed in the same folder. 
+Mathematica codes for computations related to the R-matrix parastatistics, defined in arXiv:2308.05203. The pdf file IntroductionParastatisticsCodes.pdf gives a detailed explanation of all the codes. The two notebook files Verify2DSpinModel.nb and RMatricesAnd1DSpinModel.nb are the main files to run. All files (including .nb .wl .mx) should be placed in the same folder. 
